@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import "../styles/globals.scss";
+import "@/styles/globals.scss";
 
 function RootLayout({ children }: { children: React.ReactNode }) {
   return (
