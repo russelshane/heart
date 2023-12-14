@@ -1,0 +1,15 @@
+{
+  "name": "@heartcms/api",
+  "version": "1.0.2",
+  "license": "MIT",
+  "author": {
+    "email": "hello@darsler.com",
+    "name": "Darsler Russel Shane"
+  },
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpily-only server.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
