@@ -3,8 +3,8 @@
   "name": "@heartcms/frontend",
   "version": "0.8.1",
   "author": {
-    "email": "hello@heartcms.app",
-    "name": "HeartCMS"
+    "email": "hello@darsler.com",
+    "name": "Darsler Russel Shane"
   },
   "scripts": {
     "dev": "next dev -p 6771",
